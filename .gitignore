@@ -1,0 +1,13 @@
+# Keras Tuner
+Deep_Learning/Day-39/mydir/
+Deep_Learning/Day-39/untitled_project/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
